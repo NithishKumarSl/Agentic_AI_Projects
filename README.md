@@ -2,7 +2,7 @@
 
 > **A comprehensive collection of AI-powered applications demonstrating various frameworks, technologies, and use cases in modern AI development.**
 
-![AI Projects](https://img.shields.io/badge/AI-Powered-Collection-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red) ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
+![AI Projects](https://img.shields.io/badge/AI%20Projects-Powered-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red) ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
 
 ![Agentic AI Projects Dashboard](Agentic_AI_Projects.png)
 
