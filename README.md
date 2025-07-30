@@ -4,6 +4,10 @@
 
 ![AI Projects](https://img.shields.io/badge/AI-Powered-Collection-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red) ![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
 
+![Agentic AI Projects Dashboard](Agentic_AI_Projects.png)
+
+*Comprehensive AI-powered dashboard showcasing multi-agent systems, learning path generation, and specialized AI applications*
+
 ## 📚 Overview
 
 This repository contains a diverse collection of AI-powered applications built using cutting-edge frameworks and technologies. Each project demonstrates different aspects of modern AI development, from multi-agent systems to conversational AI, from code analysis to financial planning.
